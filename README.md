@@ -1,18 +1,15 @@
-## Getting Started
+## CHESS SYSTEM IN JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a project i found online //
+since the project requires a good range of java knolege i've decided to give it a shot
 
-## Folder Structure
+## UML diagram
+![chess-system-design](https://user-images.githubusercontent.com/118780538/204137266-0fd140bb-36ef-401a-b236-56752b09eca3.png)
 
-The workspace contains two folders by default, where:
+## WANT TO RUN?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- just `git clone` this repository
+- compile the project in your favorite IDE
+- Run `java application/App`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
